@@ -2,6 +2,11 @@
 
 This is a simple package for a function that makes a drop down menu, made for The Odin Project
 
+## Installation
+
+npm install dropDownMenum--save-dev
+
+
 ## How does this work
 
 You will give your drop down a class of dropDown and give it an opacity of 0 so it is invisible. Then give your menu button a id of menuButton and create a variable called menuButtonIsClicked and set it to false. Then you simply call the dropDownMenu function on an event listener for the menuButton.
