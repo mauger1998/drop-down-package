@@ -34,3 +34,9 @@ header {
 .menuContainer > ul {
     opacity:0;
 }
+@media (max-width:700px) {
+    .menuContainer > ul {
+
+        width:200px
+    }
+}
