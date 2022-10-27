@@ -1,6 +1,6 @@
 ## What is this
 
-This is a simple package for a function that makes a drop down menu, made for The Odin Project
+Change! Noone use this, theres a bug, im still new to packages
 
 ## Installation
 

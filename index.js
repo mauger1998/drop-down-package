@@ -9,7 +9,7 @@ function dropDownMenu() {
         menuButtonIsClicked = true;
     } else if (menuButtonIsClicked == true) {
         dropDown.style.opacity = 0;
-        menuButtonIsClicked = false;
+        menuButtonIsClicked = false; 
     }
     
 }
