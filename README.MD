@@ -4,7 +4,7 @@ This is a simple package for a function that makes a drop down menu, made for Th
 
 ## Installation
 
-npm install dropDownMenum--save-dev
+npm install drop-down-package --save-dev
 
 
 ## How does this work

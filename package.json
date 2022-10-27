@@ -1,0 +1,24 @@
+{
+  "name": "drop-down-package",
+  "version": "1.0.0",
+  "description": "A quick drop down menu function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauger1998/drop-down-package.git"
+  },
+  "keywords": [
+    "drop",
+    "down",
+    "menu"
+  ],
+  "author": "Jordan Mauger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauger1998/drop-down-package/issues"
+  },
+  "homepage": "https://github.com/mauger1998/drop-down-package#readme"
+}
